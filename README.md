@@ -17,7 +17,7 @@ This script will make launching the second GW2 instance a simple double-click ac
 
 ###How To Configure
 **About Personalization**  
-Use your favorite text editor to edit the first three lines of the **gw2mi.bat** file (not the shortcut).  
+Use your favorite text editor to edit the first three lines of the **gw2mi.bat** file (not the desktop-shortcut).  
     `set win_user=john2`  
     `set gw2_path=R:\Program Files\Guild Wars 2c`  
     `set gw2_exe=gw2-64.exe`  
