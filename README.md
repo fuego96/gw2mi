@@ -15,7 +15,7 @@ This script will make launching the second GW2 instance a simple double-click ac
 * Create a second login account on your PC (for the second instance of GW2 to save its settings to).
 * Download **handle.exe** from Microsoft (see reference link below) and copy it to C:\Windows
 * Copy the **gw2mi.bat** to your second GW2 folder and create a desktop-shortcut.  
-  (or copy to your first and only GW2 installation folder)  
+  (or copy to your one-and-only GW2 installation folder)  
 
 ###How To Configure
 **About Personalization**  
