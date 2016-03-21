@@ -12,7 +12,7 @@ This script will make launching the second GW2 instance a simple double-click ac
 
 This solution actually works even with one GW2 copy, since the gw2cache is created per Windows User profile, but this will probably not survive the test of time when multiple running instances try to update the same gw2.dat core in the same folder. 
 
-If you wish to try, and don't mind waiting while the GW2 client repairs the over 26GB Gw2.dat file because it somehow got corrupt, the risk is yours :-)
+If you wish to try, and don't mind waiting while the GW2 client repairs the over 26GB Gw2.dat file because it somehow got corrupt, do so at your own risk :-)
 
 
 ###Prerequisites - You'll Need To:
