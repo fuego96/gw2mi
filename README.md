@@ -23,9 +23,8 @@ Use your favorite text editor to edit the first three lines of the **gw2mi.bat**
     
 Simply change the **win_user** name "john2" (as seen above) with your second Windows login account, change the **gw2_path** to where your second GW2 folder path is, and also change the **gw2_exe** from "gw2-64.exe" to "gw2.exe" if you prefer to run the 32bit GW2 client.  
 
-**About handle.exe**
-Handle.exe (which gw2mi.bat uses) will not be able to find the correct handle id for "AN-Mutex-Window-Guild Wars 2" if not given administrative rights. To fix this, simply right-click the gw2mi.bat desktop-shortcut and select **properties**. In the **Shortcut** tab, click the **Advanced** button and check-mark **"run as administrator"**. Click OK to save the shortcut settings.
-
+**About handle.exe (which gw2mi.bat uses)**  
+Handle.exe requires administrator privilege to properly detect "AN-Mutex-Window-Guild Wars 2" and get a handle id for it. Modify the desktop-shortcut settings by right-clicking and select **properties**. In the **Shortcut** tab, click the **Advanced** button and check-mark **"run as administrator"**. Click OK to save the shortcut settings.
 
 ###How To Run:
 * Launch the first GW2 as you normally do.
