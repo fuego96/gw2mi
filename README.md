@@ -11,7 +11,7 @@ gw2mi is a simple (Windows) DOS .bat script that launches a second Guild Wars 2 
 This script will make launching the second GW2 instance a simple double-click action. Ideal if you have two accounts and a good-enough PC (see below for reference PC used).
 
 ###Prerequisites - You'll Need To:
-* Create a second login account on your PC for the second instance of GW2 to save its settings to.
+* Create a second login account on your PC (for the second instance of GW2 to save its settings to).
 * Download "handle.exe" from Microsoft (see reference link below) and copy it to say C:\Windows
 * Copy gw2mi.bat template from here, make personal changes to it and create a desktop-shortcut.
 
