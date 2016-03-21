@@ -14,7 +14,8 @@ This script will make launching the second GW2 instance a simple double-click ac
 ###Prerequisites - You'll Need To:
 * Create a second login account on your PC (for the second instance of GW2 to save its settings to).
 * Download **handle.exe** from Microsoft (see reference link below) and copy it to say C:\Windows
-* Copy the **gw2mi.bat** to your second GW2 folder and create a desktop-shortcut.
+* Copy the **gw2mi.bat** to your second GW2 folder and create a desktop-shortcut.  
+  (or copy to your first and only GW2 installation folder)  
 
 ###How To Configure
 **About Personalization**  
@@ -29,8 +30,8 @@ Simply change the **win_user** name "john2" (as seen above) with your second Win
 Handle.exe requires administrator privilege to properly detect "AN-Mutex-Window-Guild Wars 2" and get a handle id for it. Modify the desktop-shortcut settings by right-clicking and select **properties**. In the **Shortcut** tab, click the **Advanced** button and check-mark **"run as administrator"**. Click OK to save the shortcut settings.
 
 ###How To Run:
-* Launch the first GW2 as you normally do.
-* Double-click the gw2mi.bat shortcut (even if the first one is just at the GW2 login screen).
+* Launch the first GW2 as you normally do (ie. double-clicking gw2.exe or gw2-64.exe).
+* Double-click the gw2mi.bat shortcut (even if the first one is just showing the GW2 login screen).
 
 And that's it really.
 
