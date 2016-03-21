@@ -1,14 +1,14 @@
 # gw2mi
 gw2mi is a simple (Windows) DOS .bat script that launches a second Guild Wars 2 instance.
+** **
+** **
+**Overview - Do You Find:**
+* Yourself playing GW2 and finally bought a second account?
+* The latest version of MultiWars unstable and slow as heck?
+* The post in www.reddit.com/r/Guildwars2/comments/2v3s3h/multiwars2_performance/coedftb a bit complicated?
+* Running two separate copies of GuildWars 2 on the same hard disk agreeable (should work even with one)?
 
-Overview - Do You Find:
-1. Yourself playing GW2 and finally bought a second account?
-2. The latest version of MultiWars unstable and slow as heck?
-3. The post in Reddit (https://www.reddit.com/r/Guildwars2/comments/2v3s3h/multiwars2_performance/coedftb) a bit complicated?
-4. Running two separate copies of GuildWars 2 on the same hard disk agreeable (though the solution should work even with one)?
-
-As mentioned in point 4 above, this script is great if you have two accounts.
-
+This script is ideal if you have two accounts.
 
 Prerequisites - You'll Need To:
 1. Create a second login account on your PC for the second instance of GW2 to save its settings to.
