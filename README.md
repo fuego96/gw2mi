@@ -10,7 +10,7 @@ gw2mi is a simple (Windows) DOS .bat script that launches a second Guild Wars 2 
 
 This script will make launching the second GW2 instance a simple double-click action. Ideal if you have two accounts and a good-enough PC (see below for reference PC used).
 
-Note: Running two GW2 instances on a single GW2 copy works, but it is not recommended as there is no telling what would happen if both instances attempt to write new updates into the same Gw2.dat file -- it's your risk. Having said this, GW2 usually announces "a new build is available..." in-game and as long as all instances have been closed, launching one instance to do the update ***should*** prevent any possible file corruption, in which case, the worse that can happen is a long wait for a Gw2.dat file repair.
+**Note:** Running two GW2 instances on a single GW2 copy works, but it is not recommended as there is no telling what would happen if both instances attempt to write new updates into the same Gw2.dat file -- it's your risk. Having said this, GW2 usually announces "a new build is available..." in-game and as long as all instances have been closed, launching one instance to do the update ***should*** prevent any possible file corruption, in which case, the worse that can happen is a long wait for a Gw2.dat file repair.
 
 ###Prerequisites - You'll Need To:
 * Create a second Windows User account on your PC (for the second instance of GW2 to save its settings to).
