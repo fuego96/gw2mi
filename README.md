@@ -23,7 +23,7 @@ If you wish to try, and don't mind waiting while the GW2 client repairs the over
 
 ###How To Configure
 **About Personalization**  
-Use your favorite text editor to edit the first three lines of the **gw2mi.bat** file.  
+Use your favorite plain-text editor to edit the first three lines of the **gw2mi.bat** file.  
     `set win_user=john2`  
     `set gw2_path=R:\Program Files\Guild Wars 2c`  
     `set gw2_exe=gw2-64.exe`  
