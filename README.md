@@ -12,25 +12,26 @@ This script will make launching the second GW2 instance a simple double-click ac
 
 ###Prerequisites - You'll Need To:
 * Create a second login account on your PC (for the second instance of GW2 to save its settings to).
-* Download "handle.exe" from Microsoft (see reference link below) and copy it to say C:\Windows
-* Copy the gw2mi.bat template from here, make personal changes to it and create a desktop-shortcut.
+* Download **handle.exe** from Microsoft (see reference link below) and copy it to say C:\Windows
+* Copy the **gw2mi.bat** to your second GW2 folder and create a desktop-shortcut.
 
 ###How To Configure - Personalize
-Use your favorite text editor to edit the first three lines in the **gw2mi.bat** file.  
+Use your favorite text editor to edit the first three lines of the **gw2mi.bat** file (not the shortcut).  
     `set win_user=john2`  
     `set gw2_path=R:\Program Files\Guild Wars 2c`  
     `set gw2_exe=gw2-64.exe`  
     
 Simply change the **win_user** name "john2" (as seen above) with your second Windows login account, change the **gw2_path** to where your second GW2 folder path is, and also change the **gw2_exe** from "gw2-64.exe" to "gw2.exe" if you prefer to run the 32bit GW2 client.  
 
+**About handle.exe**
+Handle.exe (which gw2mi.bat uses) will not be able to find the correct handle id for "AN-Mutex-Window-Guild Wars 2" if not given administrative rights. To fix this, simply right-click the gw2mi.bat desktop-shortcut and select **properties**. In the **Shortcut** tab, click the **Advanced** button and check-mark **"run as administrator"**. Click OK to save the shortcut settings.
+
+
 ###How To Run:
 * Launch the first GW2 as you normally do.
 * Double-click the gw2mi.bat shortcut (even if the first one is just at the GW2 login screen).
 
 And that's it really.
-
-###Doesn't Work? - Windows Security Considerations
-Handle.exe (which gw2mi.bat uses) will not be able to find the correct handle id for "AN-Mutex-Window-Guild Wars 2" if not given administrative rights. To fix this, simply right-click the gw2mi.bat desktop-shortcut and select **properties**. In the **Shortcut** tab, click the **Advanced** button and check-mark **"run as administrator"**. Click OK to save the shortcut settings.
 
 ###Reference
 **Links:**  
