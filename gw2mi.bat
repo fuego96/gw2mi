@@ -7,7 +7,7 @@ set gw2_exe=gw2-64.exe
 REM GW1 launch options (-nopatchui -email whomever@whereever.com -password whatever)
 set gw2_options=
 
-REM Get the handle and type pid
+REM Get the handle and type id
 for /f "tokens=1,2,3,4,5,6,7 delims=: " %%a in ('"handle -p %gw2_exe% -a Sessions\1\BaseNamedObjects\AN-Mutex-Window"') do set p0=%%a&set p1=%%b&set p2=%%c&set p3=%%d&set p4=%%e&set p5=%%f&set p6=%%g
 echo.P0: %p0% (handle)
 echo.P1: %p1%
@@ -17,7 +17,7 @@ echo.P4: %p4% (type)
 echo.P5: %p5% (type_id)
 echo.P6: %p6% (path)
 
-REM Close the Mutex-Window
+REM Close the handle
 handle -c %p5% -p %p2% -y
 
 REM Launch GW2 under a different user credential
