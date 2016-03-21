@@ -16,7 +16,7 @@ This script will make it a double-click solution and is ideal if you have two ac
 * Copy gw2mi.bat template from here, make personal changes to it and create a desktop-shortcut.
 
 ###How To Configure - Personalize
-Use your favorite text editor to edit the first three lines in the gw2mi.bat file.  
+Use your favorite text editor to edit the first three lines in the **gw2mi.bat** file.  
     `set win_user=john2`  
     `set gw2_path=R:\Program Files\Guild Wars 2c`  
     `set gw2_exe=gw2-64.exe`
