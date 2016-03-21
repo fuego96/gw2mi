@@ -34,7 +34,7 @@ Handle.exe (which gw2mi.bat uses) will not be able to find the correct handle id
 **Links:**
 "handle.exe" from https://technet.microsoft.com/en-us/sysinternals/handle.aspx
 
-**PC Used:**
+**PC Used:**  
 OS: Windows 10  
 CPU: AMD Phenom II x6 (6-core) @ 3.8Ghz  
 RAM: 16GB  
