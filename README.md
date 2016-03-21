@@ -16,10 +16,10 @@ This script will make it a double-click solution and is ideal if you have two ac
 * Copy gw2mi.bat template from here, make personal changes to it and create a desktop-shortcut.
 
 ###How To Configure - Personalize
-Use your favorite text editor to edit the first three lines in the gw2mi.bat file. Simply change **win_user** name "john2" below with your second Windows login account, change the **gw2_path** to where your second GW2 folder path is and also change the **gw2_exe** from "gw2-64.exe" to "gw2.exe" instead, if you're running GW2 in 32bit mode.  
-`set win_user=john2`  
-`set gw2_path=R:\Program Files\Guild Wars 2c`  
-`set gw2_exe=gw2-64.exe`
+Use your favorite text editor to edit the first three lines in the gw2mi.bat file. Simply change **win_user** name "john2" below with your second Windows login account, change the **gw2_path** to where your second GW2 folder path is and also change the **gw2_exe** from "gw2-64.exe" to "gw2.exe" instead, if you're running GW2 in 32bit mode. 
+ `set win_user=john2`  
+ `set gw2_path=R:\Program Files\Guild Wars 2c`  
+ `set gw2_exe=gw2-64.exe`
 
 ###How To Run:
 * Launch the first GW2 as you normally do.
