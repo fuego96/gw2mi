@@ -4,7 +4,7 @@ set win_user=john2
 set gw2_path=R:\Program Files\Guild Wars 2c
 set gw2_exe=gw2-64.exe
 
-REM GW1 launch options (ie. "-nopatchui -email whomever@whereever.com -password whatever")
+REM GW1 launch options (ie. -nopatchui -email whomever@whereever.com -password whatever)
 set gw2_options=
 
 REM Get the handle and type pid
