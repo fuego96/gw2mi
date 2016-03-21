@@ -21,5 +21,6 @@ This script is ideal if you have two accounts.
 **Doesn't Work? - Windows Security Considerations**
 Handle.exe (which gw2mi.bat uses) will not be able to find the correct handle id for "AN-Mutex-Window-Guild Wars 2" if not given administrative rights. To fix this, simply right-click the gw2mi.bat desktop-shortcut, select properties. In the shortcut tab, click "Advanced..." and check-mark "run as administrator" and click OK to save the shortcut setting.
 
+
 **Links:**
 "handle.exe" from https://technet.microsoft.com/en-us/sysinternals/handle.aspx
