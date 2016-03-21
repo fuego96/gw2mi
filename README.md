@@ -33,7 +33,7 @@ Handle.exe requires administrator privilege to properly detect "AN-Mutex-Window-
 * Launch the first GW2 as you normally do (ie. double-clicking gw2.exe or gw2-64.exe).
 * Double-click the gw2mi.bat shortcut (even if the first one is just showing the GW2 login screen).
 
-And that's it really.
+As you launch gw2mi.bat last, that's it really.
 
 ###Reference
 **Links:**  
