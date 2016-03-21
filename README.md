@@ -15,7 +15,8 @@ This script will make launching the second GW2 instance a simple double-click ac
 * Download **handle.exe** from Microsoft (see reference link below) and copy it to say C:\Windows
 * Copy the **gw2mi.bat** to your second GW2 folder and create a desktop-shortcut.
 
-###How To Configure - Personalize
+###How To Configure
+**About Personalization**  
 Use your favorite text editor to edit the first three lines of the **gw2mi.bat** file (not the shortcut).  
     `set win_user=john2`  
     `set gw2_path=R:\Program Files\Guild Wars 2c`  
