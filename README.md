@@ -8,8 +8,7 @@ gw2mi is a simple (Windows) DOS .bat script that launches a second Guild Wars 2 
 * Running two separate copies of GuildWars 2 on the same hard disk agreeable (should work even with one)?
 
 This script is ideal if you have two accounts.
-<p>
-<p>
+
 **Prerequisites - You'll Need To:**
 * Create a second login account on your PC for the second instance of GW2 to save its settings to.
 * Download "handle.exe" from Microsoft (see link below) and copy it to say C:\Windows
@@ -19,7 +18,7 @@ This script is ideal if you have two accounts.
 * Launch the first GW2 as you normally do.
 * Double-click the gw2mi.bat shortcut (even if the first one is just at the GW2 login screen).
 
-**Doesn't Work? - Windows Security Considerations**<p>
+**Doesn't Work? - Windows Security Considerations**  
 Handle.exe (which gw2mi.bat uses) will not be able to find the correct handle id for "AN-Mutex-Window-Guild Wars 2" if not given administrative rights. To fix this, simply right-click the gw2mi.bat desktop-shortcut, select properties. In the shortcut tab, click "Advanced..." and check-mark "run as administrator" and click OK to save the shortcut setting.
 
 
