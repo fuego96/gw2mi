@@ -13,7 +13,7 @@ This script will make launching the second GW2 instance a simple double-click ac
 ###Prerequisites - You'll Need To:
 * Create a second login account on your PC (for the second instance of GW2 to save its settings to).
 * Download "handle.exe" from Microsoft (see reference link below) and copy it to say C:\Windows
-* Copy gw2mi.bat template from here, make personal changes to it and create a desktop-shortcut.
+* Copy the gw2mi.bat template from here, make personal changes to it and create a desktop-shortcut.
 
 ###How To Configure - Personalize
 Use your favorite text editor to edit the first three lines in the **gw2mi.bat** file.  
