@@ -21,7 +21,7 @@ Use your favorite text editor to edit the first three lines in the **gw2mi.bat**
     `set gw2_path=R:\Program Files\Guild Wars 2c`  
     `set gw2_exe=gw2-64.exe`  
     
-Simply change the **win_user** name "john2" (as seen above) with your second Windows login account, change the **gw2_path** to where your second GW2 folder path is, and also change the **gw2_exe** from "gw2-64.exe" to "gw2.exe" instead (to run the 32bit GW2 client).  
+Simply change the **win_user** name "john2" (as seen above) with your second Windows login account, change the **gw2_path** to where your second GW2 folder path is, and also change the **gw2_exe** from "gw2-64.exe" to "gw2.exe" if you prefer to run the 32bit GW2 client.  
 
 ###How To Run:
 * Launch the first GW2 as you normally do.
