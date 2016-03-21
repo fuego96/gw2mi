@@ -1,5 +1,6 @@
 # gw2mi
 gw2mi is a simple (Windows) DOS .bat script that launches a second Guild Wars 2 instance.
+(This is also an exercise in GitHub and [Markdown](http://commonmark.org/help/))
 
 ###Overview - Do You Find:
 * Yourself playing GW2 for many years and, inevitably, bought a second account?
