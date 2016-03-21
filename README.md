@@ -16,7 +16,7 @@ This script will make launching the second GW2 instance a simple double-click ac
 * Copy the **gw2mi.bat** to your second GW2 folder and create a desktop-shortcut.  
   (or copy to your one-and-only GW2 installation folder)  
 
-A quick note about the second Windows User account. You can run multiple GW2 instances even with one installed GW2 copy as the GW2 client automatically (re)creates its "gw2cache" per Windows User profile (which naturally remembers the GW2 login, password and other GW2 settings). However this single-folder, multi-instance solution may not survive the test of time when said instances try to update GW2 content to the same gw2.dat file in the same folder. No telling what would happen there.  
+A quick note about the second Windows User account. You can run multiple GW2 instances even with one installed GW2 copy as the GW2 client automatically (re)creates its "gw2cache" per Windows User profile (which naturally remembers the GW2 login, password and other GW2 settings). However this single-folder, multi-instance solution may not survive the test of time when said instances try to update GW2 content to the same gw2.dat file in the same installation folder. No telling what would happen there.  
 
 If you wish to try, and don't mind waiting while the GW2 client repairs the over 26GB Gw2.dat file because it somehow got corrupt, do so at your own risk :-)
 
